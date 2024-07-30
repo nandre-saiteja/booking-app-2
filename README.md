@@ -29,7 +29,7 @@ Technologies Used:
 
 DEMO: 
 
-Home Page ⇓
+Home Page 🢃
 
 ![homeaway_img_1](https://github.com/user-attachments/assets/f9ff9fc5-c261-4789-a185-deed8f9d43c2)
 
