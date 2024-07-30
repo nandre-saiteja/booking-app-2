@@ -27,3 +27,15 @@ Technologies Used:
 
 •JWT (JSON Web Tokens): For authentication.
 
+
+![homeaway_img_1](https://github.com/user-attachments/assets/f9ff9fc5-c261-4789-a185-deed8f9d43c2)
+![homeaway_img_2](https://github.com/user-attachments/assets/d3f3c36b-2a6c-4fc8-8848-d7f7d1d2957a)
+![homeaway_img_3](https://github.com/user-attachments/assets/6d4dd096-8b8f-4bb8-a926-cb24ba63a1fb)
+![homeaway_img_4](https://github.com/user-attachments/assets/9acb418d-f539-4aee-84f8-fcb3e5fb9260)
+![homeaway_img_5](https://github.com/user-attachments/assets/4db109f3-3245-46d7-bafe-24422ee39da4)
+![homeaway_img_6](https://github.com/user-attachments/assets/a279b7a5-455e-4a60-9a76-4c2ac719d0e8)
+![homeaway_img_7](https://github.com/user-attachments/assets/b8584cd5-3b2a-42f5-abbc-1f25002c3c73)
+![homeaway_img_8](https://github.com/user-attachments/assets/8d4f3788-0a51-45a4-85ba-5f372c801f16)
+![homeaway_img_9](https://github.com/user-attachments/assets/5a4f7b3d-1ae2-436e-bb6f-c0809a9362b0)
+![homeaway_img_10](https://github.com/user-attachments/assets/fa3c04b7-c523-4eb9-8efa-22f2779af3ec)
+
