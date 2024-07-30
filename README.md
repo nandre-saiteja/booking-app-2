@@ -66,5 +66,37 @@ My Accomodations has Add new place where you can add a new place with place_name
 ![homeaway_img_9](https://github.com/user-attachments/assets/5a4f7b3d-1ae2-436e-bb6f-c0809a9362b0)
 
 To add a new place fill out all the required info  🢃
+
 ![homeaway_img_10](https://github.com/user-attachments/assets/fa3c04b7-c523-4eb9-8efa-22f2779af3ec)
+
+(contd)  🢃
+
+![homeaway_img_11](https://github.com/user-attachments/assets/d5e40847-5914-411e-88bf-b04310234fa8)
+
+After adding a place, you can now see that place under My Accomodations page and also on Home page on every account  🢃
+
+![homeaway_img_12](https://github.com/user-attachments/assets/93975c6a-3685-4aac-a630-35438e8a40ba)
+
+As mentioned earlier we can also see that newly added place on home page permanently for every account 🢃
+
+![homeaway_img_13](https://github.com/user-attachments/assets/16117f9e-ebe5-417d-96ca-4292c8780a9b)
+
+When clicked on a place to view more info about it  🢃
+
+![homeaway_img_14](https://github.com/user-attachments/assets/7b964e05-e5a5-4a66-8a1d-17a7709d7a26)
+
+We can see the description, check-in, check-out, price and a booking button inorder to book that place  🢃
+
+![homeaway_img_15](https://github.com/user-attachments/assets/2f3db349-9271-4159-a6f7-cce1304c03a9)
+
+Once booked our booking information is displayed at the top  🢃
+
+![homeaway_img_16](https://github.com/user-attachments/assets/f13fbc08-0fa5-4e7c-9452-f08b00fb9ce0)
+
+Under bookings page, we can see our booked place  🢃
+
+![homeaway_img_17](https://github.com/user-attachments/assets/8b49ae46-bfd3-4646-af87-021be796e87e)
+
+
+
 
